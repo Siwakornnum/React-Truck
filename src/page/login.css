@@ -1,0 +1,32 @@
+@media all and (min-width: 480px) {
+.Login {
+      padding: 271px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .buttomLogin{
+        margin-top: 10px;
+        margin-left : 222px
+    }
+
+    .bb{
+      margin-top: 500px;
+    }
+
+
+    .password .form-control1{
+      padding-top: 4px;
+      padding-bottom: 3.28px;
+      margin-top: -2px;
+    }
+
+    .buttomLogin{
+      margin-left: 253px;
+    }
+
+   
+}

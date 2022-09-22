@@ -1,0 +1,77 @@
+input[type="text"],
+input[type="date"],
+input[type="time"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="button"] {
+  width: 100%;
+  background-color: #40453e;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.main2 {
+  background: var(--color-white);
+  width: 130%;
+  border-radius: var(--card-border-reaius);
+  padding: 50px;
+  text-align: left;
+  box-shadow: var(--box-shadow);
+  transition: all 300ms ease;
+}
+
+.main2:hover {
+  box-shadow: none;
+}
+
+.main2 {
+  margin-top: 1.4rem;
+  margin-right: -30rem;
+}
+
+.alert-warning {
+  text-align: center;
+}
+
+.main2 .container .row .col .qq1 {
+  margin-top: 35px;
+}
+
+.main2 .container .row .col .qq2 {
+  margin-top: 57px;
+}
+
+.main2 .container .row .qq3 {
+  margin-top: 86px;
+}
+
+.main2 .container .row {
+  width: 50%;
+  margin-left: 120px;
+}
